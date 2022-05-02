@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/418130d5-faf1-45e7-bc64-a24cb7af9345/resourceGroups/ChefRambo-webapp1-rg/providers/Microsoft.Web/sites/ChefRambo-webapp1"
+}
