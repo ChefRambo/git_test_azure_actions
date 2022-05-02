@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\grhoads\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+  "FilePath": "c:\\Users\\grhoads\\repos\\git_test_azure_actions\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,38 +16298,38 @@
   "RootNamespace": "MyFirstAzureWebApp",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\grhoads\\MyFirstAzureWebApp\\Pages\\Index.cshtml",
+      "FilePath": "c:\\Users\\grhoads\\repos\\git_test_azure_actions\\MyFirstAzureWebApp\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\grhoads\\MyFirstAzureWebApp\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\grhoads\\repos\\git_test_azure_actions\\MyFirstAzureWebApp\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\grhoads\\MyFirstAzureWebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\grhoads\\repos\\git_test_azure_actions\\MyFirstAzureWebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\grhoads\\MyFirstAzureWebApp\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\grhoads\\MyFirstAzureWebApp\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\grhoads\\MyFirstAzureWebApp\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\grhoads\\repos\\git_test_azure_actions\\MyFirstAzureWebApp\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\grhoads\\MyFirstAzureWebApp\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\grhoads\\repos\\git_test_azure_actions\\MyFirstAzureWebApp\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grhoads\\repos\\git_test_azure_actions\\MyFirstAzureWebApp\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grhoads\\repos\\git_test_azure_actions\\MyFirstAzureWebApp\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],
