@@ -12,6 +12,8 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest  #google hosted runner
+    environment:                                   #adding environment as a test
+      name: Test_NET_Environment
 
     steps:
       # Checkout the repo
